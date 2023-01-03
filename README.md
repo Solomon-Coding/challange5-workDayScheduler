@@ -13,7 +13,7 @@ Through this project a better understanding of dynamic uses JavaScript, CSS, and
 
 ## Webpage
 
-[Link to published Password Generator](https://solomon-coding.github.io/challenge5-workDayScheduler/)
+[Link to published Work Day Scheduler](https://solomon-coding.github.io/challenge5-workDayScheduler/)
 
 ## Credits
 
