@@ -2,10 +2,10 @@
 
 ## Description
 
-The motivation for the project was to modify code and create a working password generator.
-This project was undertaken to better learn code JavaScript.
-The updated codebase allows for a user to select characteristics that will conform the password to their needs. The user is able to select password length, and wether or not the password will include uppercase or lowercase letters, numbers, or special characters.
-Through this project a better understanding of JavaScript, logic and variable manipulation were learned.
+The motivation for the project was to modify code and create a work day scheduling application.
+This project was undertaken to better learn API's and how they interact can dynamically work with JavaScript and css.
+The updated codebase shows a planer that will show the days events, can store the information locally, and for each hour time block, shows a color representing the past present, or future.
+Through this project a better understanding of dynamic uses JavaScript, CSS, and APIs was learned along with how each of the components interact with each other.
 
 ## Screenshot
 
